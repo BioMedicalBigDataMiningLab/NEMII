@@ -9,10 +9,3 @@ Code and data for “A network embedding-based multiple information integration 
 
 - data/disease_similarity.csv is the disease similarity matrix of 314 diseases,which is calculated based on disease mesh descriptors.
 
-## Code
-
-- The directory SDNE contains the implementation of network embedding method Structural Deep Network Embedding.
-
-- NEMII_main.py implements 5-fold CV of NEMII on our dataset.
-
-Please kindly cite the paper if you use the code or the dataset. 
